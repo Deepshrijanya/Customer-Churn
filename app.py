@@ -4,5 +4,3 @@
 # Scaler is exported as scaler.pkl
 # Model is exported as model.pkl
 # Order of the X is 'Age', 'Gender', 'Tenure', 'MonthlyCharges'
-
-import 
